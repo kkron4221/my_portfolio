@@ -3,4 +3,9 @@
 	<head>
 		<title>Portfolio</title>
 	</head>
+	<body>
+		<li>Githubアカウントは<a href="https://github.com/kkron4221">こちら</a></li>
+		<li>ブログアカウント(日本語版note)は<a href="https://note.com/ricky19">こちら</a></li>
+		<li><a href="">ブログアカウント(英語版)</a></li>
+	</body>
 </html>
