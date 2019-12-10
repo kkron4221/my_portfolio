@@ -3,7 +3,7 @@
 
 10日
 obniz
-パスワード　note,twitter,medium,feedly
+パスワード　note,twitter,medium,feedly,github
 パスワードマネージャー 整理
 github接続 ssh
 editer awscloud9
@@ -15,6 +15,7 @@ connection VPN
 pocket
 SoftTalk
 Inside A Mind At War 360 trailer
+wifi 強度 測定 コマンド mac
 
 vrで肉弾戦　空中戦もできそう
 アバターの動作をコントロールして映像を作る
