@@ -39,3 +39,4 @@ https://medium.com/opensource-cafe
 なぜVRをするのか
 中二なことができる
 世界中に物理的な限界を超えれる
+https://www.newsweekjapan.jp/stories/world/2019/12/post-13528.php
