@@ -3,7 +3,7 @@
 
 10日
 obniz
-パスワード　note,twitter,medium,feedly,github
+パスワード　note(knroro1877887@outlook.jp notericky190117),twitter(),medium,feedly,github
 パスワードマネージャー 整理
 github接続 ssh
 editer awscloud9
