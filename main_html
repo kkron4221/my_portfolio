@@ -7,7 +7,6 @@
     <title>Portfolio</title>
 </head>
 <body>
-        <img src="https://www.nnn.ed.nico/pages_assets/images/index/feature/logo-7aaf175200a6b7643a12c35862b02564.png" alt="アイコン">
         <h1>ricky</h1>
         
         <h3>my info</h3>
@@ -22,7 +21,7 @@
     <ul>
         <li>Githubアカウントは<a href="https://github.com/kkron4221">こちら</a></li>
         <li>ブログアカウント(日本語版note)は<a href="https://note.com/ricky19">こちら</a></li>
-        <li>技術記事(qiita)は<a href="">こちら</a></li>
+        <li>技術記事(qiita)は<a href="https://qiita.com/akiraarika932">こちら</a></li>
         <li><a href="">ブログアカウント(英語版)は</a></li>
     </ul>
 
